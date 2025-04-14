@@ -24,5 +24,4 @@ JobSystem/
 │
 └── Workspace/
     └── NPC (Part)
-        ├── ClickDetectorScript.lua
         └── ClickDetector
