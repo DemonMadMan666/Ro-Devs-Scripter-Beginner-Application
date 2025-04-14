@@ -1,0 +1,28 @@
+JobSystem/
+├── ReplicatedStorage/
+│   └── RemoteEvents/
+│       ├── JobEvent (RemoteEvent)
+│       └── JobFunction (RemoteFunction)
+│
+├── ServerScriptService/
+│   └── JobService.lua
+│
+├── ReplicatedStorage/
+|   └── Modules
+│       ├── JobModule.lua
+|       └── PlayerData.lua
+│
+├── StarterPlayer/
+│   └── StarterPlayerScripts/
+│       ├── JobUI.lua
+│       ├── JobClickHandler.lua
+│       ├── JobChangeButton.lua
+|       └── JobSelectorUI.lua
+│
+├── StarterGui/
+│   └── [Dynamic GUI Created in Scripts]
+│
+└── Workspace/
+    └── NPC (Part)
+        ├── ClickDetectorScript.lua
+        └── ClickDetector
